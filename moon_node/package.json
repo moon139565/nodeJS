@@ -1,0 +1,17 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "description": "just backend practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sun"
+  ],
+  "author": "mr moon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
